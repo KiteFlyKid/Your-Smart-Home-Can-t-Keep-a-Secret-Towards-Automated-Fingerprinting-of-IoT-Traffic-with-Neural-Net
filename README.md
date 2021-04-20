@@ -11,7 +11,7 @@ A implementation of Your Smart Home Can’t Keep a Secret: Towards Automated Fin
 
 ## Remain to do
 
-1. Note that since the authors did not publish the noisy data, so I haven't implement the *Dataset-Noise* version 
-2. Use this framework, Random Forest& Bi-LSTM  is easy
-3. Modify the Dataset.py to try different window size
+1. Note that since the authors did not publish the noisy data,  I haven't implement the *Dataset-Noise* version 
+2. With this framework, Random Forest& Bi-LSTM  is easy
+3. Modifying the Dataset.py to try different window size
 
