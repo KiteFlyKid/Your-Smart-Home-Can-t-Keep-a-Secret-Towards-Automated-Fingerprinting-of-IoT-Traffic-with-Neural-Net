@@ -1,0 +1,72 @@
+                                                                                         precision    recall  f1-score   support
+
+                                                                   360drop_lan_eth0.csv       0.93      0.86      0.89      1006
+                                             360drop_lan_orivibo_lan_turnonoff_eth0.csv       0.99      0.92      0.95      1006
+                                            360drop_lan_orivibo_lan_turnonoff_wlan0.csv       1.00      0.99      0.99      1012
+                                                                  360drop_lan_wlan0.csv       0.99      0.99      0.99       999
+                                                  360drop_wan_orvibo_turnonoff_eth0.csv       0.94      1.00      0.97       979
+                                                 360drop_wan_orvibo_turnonoff_wlan0.csv       0.99      1.00      0.99       968
+                                 echo_dot_ask_questions_xiaomi_plug_turnon_off_eth0.csv       0.85      1.00      0.92       972
+                                echo_dot_ask_questions_xiaomi_plug_turnon_off_wlan0.csv       0.95      0.94      0.94       987
+ google_home_ask_questions_tmall_assistant_sing_songs_broadlink_turnonoff_wlan_eth0.csv       0.99      1.00      1.00       983
+google_home_ask_questions_tmall_assistant_sing_songs_broadlink_turnonoff_wlan_wlan0.csv       1.00      1.00      1.00       975
+        google_home_sing_songs_tmall_assistant_ask_questions_tplink_turn_onoff_eth0.csv       0.85      0.98      0.91       964
+       google_home_sing_songs_tmall_assistant_ask_questions_tplink_turn_onoff_wlan0.csv       0.97      0.99      0.98       977
+                            google_home_sing_songs_tmall_assistant_sing_songs2_eth0.csv       1.00      1.00      1.00        11
+                           google_home_sing_songs_tmall_assistant_sing_songs2_wlan0.csv       0.95      0.99      0.97      1066
+                                        google_home_tmall_assistant_sing_songs_eth0.csv       0.91      0.94      0.93       997
+                                       google_home_tmall_assistant_sing_songs_wlan0.csv       1.00      0.99      0.99      1029
+                                                                    mitu_story_eth0.csv       0.92      0.92      0.92      1030
+                                                                   mitu_story_wlan0.csv       0.99      0.85      0.91      1013
+                                                    tmall_assistant_sing_songs_eth0.csv       0.87      0.80      0.83       988
+                                                   tmall_assistant_sing_songs_wlan0.csv       0.83      0.96      0.89       964
+                                                            xiaobai_camera_lan_eth0.csv       0.97      0.98      0.97       992
+                                                           xiaobai_camera_lan_wlan0.csv       1.00      1.00      1.00       961
+                                                           xiaobai_camera_wan2_eth0.csv       0.84      0.97      0.90      1008
+                                                          xiaobai_camera_wan2_wlan0.csv       0.98      0.89      0.93       997
+                                                            xiaobai_camera_wan_eth0.csv       0.95      0.83      0.89      1007
+                                                           xiaobai_camera_wan_wlan0.csv       0.90      0.98      0.94      1014
+                                      xiaomi_control_plug_tmall_assistant_sing_eth0.csv       0.95      0.82      0.88       975
+                                     xiaomi_control_plug_tmall_assistant_sing_wlan0.csv       1.00      0.97      0.98       994
+                                                 xiaomi_control_plug_turnonoff_eth0.csv       0.98      0.90      0.94      1049
+                                                xiaomi_control_plug_turnonoff_wlan0.csv       1.00      0.99      0.99       971
+
+                                                                               accuracy                           0.95     28894
+                                                                              macro avg       0.95      0.95      0.95     28894
+                                                                           weighted avg       0.95      0.95      0.95     28894
+                                                                                         precision    recall  f1-score   support
+
+                                                                   360drop_lan_eth0.csv       0.93      0.86      0.89      1006
+                                             360drop_lan_orivibo_lan_turnonoff_eth0.csv       0.99      0.92      0.95      1006
+                                            360drop_lan_orivibo_lan_turnonoff_wlan0.csv       1.00      0.99      0.99      1012
+                                                                  360drop_lan_wlan0.csv       0.99      0.99      0.99       999
+                                                  360drop_wan_orvibo_turnonoff_eth0.csv       0.94      1.00      0.97       979
+                                                 360drop_wan_orvibo_turnonoff_wlan0.csv       0.99      1.00      0.99       968
+                                 echo_dot_ask_questions_xiaomi_plug_turnon_off_eth0.csv       0.85      1.00      0.92       972
+                                echo_dot_ask_questions_xiaomi_plug_turnon_off_wlan0.csv       0.95      0.94      0.94       987
+ google_home_ask_questions_tmall_assistant_sing_songs_broadlink_turnonoff_wlan_eth0.csv       0.99      1.00      1.00       983
+google_home_ask_questions_tmall_assistant_sing_songs_broadlink_turnonoff_wlan_wlan0.csv       1.00      1.00      1.00       975
+        google_home_sing_songs_tmall_assistant_ask_questions_tplink_turn_onoff_eth0.csv       0.85      0.98      0.91       964
+       google_home_sing_songs_tmall_assistant_ask_questions_tplink_turn_onoff_wlan0.csv       0.97      0.99      0.98       977
+                            google_home_sing_songs_tmall_assistant_sing_songs2_eth0.csv       1.00      1.00      1.00        11
+                           google_home_sing_songs_tmall_assistant_sing_songs2_wlan0.csv       0.95      0.99      0.97      1066
+                                        google_home_tmall_assistant_sing_songs_eth0.csv       0.91      0.94      0.93       997
+                                       google_home_tmall_assistant_sing_songs_wlan0.csv       1.00      0.99      0.99      1029
+                                                                    mitu_story_eth0.csv       0.92      0.92      0.92      1030
+                                                                   mitu_story_wlan0.csv       0.99      0.85      0.91      1013
+                                                    tmall_assistant_sing_songs_eth0.csv       0.87      0.80      0.83       988
+                                                   tmall_assistant_sing_songs_wlan0.csv       0.83      0.96      0.89       964
+                                                            xiaobai_camera_lan_eth0.csv       0.97      0.98      0.97       992
+                                                           xiaobai_camera_lan_wlan0.csv       1.00      1.00      1.00       961
+                                                           xiaobai_camera_wan2_eth0.csv       0.84      0.97      0.90      1008
+                                                          xiaobai_camera_wan2_wlan0.csv       0.98      0.89      0.93       997
+                                                            xiaobai_camera_wan_eth0.csv       0.95      0.83      0.89      1007
+                                                           xiaobai_camera_wan_wlan0.csv       0.90      0.98      0.94      1014
+                                      xiaomi_control_plug_tmall_assistant_sing_eth0.csv       0.95      0.82      0.88       975
+                                     xiaomi_control_plug_tmall_assistant_sing_wlan0.csv       1.00      0.97      0.98       994
+                                                 xiaomi_control_plug_turnonoff_eth0.csv       0.98      0.90      0.94      1049
+                                                xiaomi_control_plug_turnonoff_wlan0.csv       1.00      0.99      0.99       971
+
+                                                                               accuracy                           0.95     28894
+                                                                              macro avg       0.95      0.95      0.95     28894
+                                                                           weighted avg       0.95      0.95      0.95     28894

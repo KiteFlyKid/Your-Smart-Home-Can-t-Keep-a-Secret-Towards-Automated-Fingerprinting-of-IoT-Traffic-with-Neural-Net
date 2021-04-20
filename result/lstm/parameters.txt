@@ -1,0 +1,18 @@
+data_dir: ../dataset/
+window_size: 20
+device: cuda
+input_size: 11
+hidden_size: 64
+num_layers: 2
+num_classes: 30
+batch_size: 64
+accumulation_step: 1
+optimizer: adam
+lr: 0.001
+max_epoch: 50
+lr_step: (300, 350)
+lr_decay_ratio: 0.1
+resume_path: None
+model_name: lstm
+save_dir: ../result/lstm/
+model_path: ../result/lstm/lstm_last.pth
